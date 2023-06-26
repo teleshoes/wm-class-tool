@@ -1,0 +1,7 @@
+wm-class-tool
+Copyright 2023 Elliot Wolk
+License: GPLv2 or GPLv3
+
+based on:
+  set_wm_class.c gist by tgr
+  https://gist.github.com/tgr/eae411cefde08cbed5c59d4f51ddb062
